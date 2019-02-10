@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=G32QMsgr-jM
 
 ### References
 * http://igoro.com/archive/gallery-of-processor-cache-effects/
-* https://www.aristeia.com/TalkNotes/ACCU2011_CPUCaches.pdf
+* https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
 ### Takeaway
 * Memory allocations are expensive (i.e. cost of first touch not malloc)
