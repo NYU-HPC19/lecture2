@@ -1,3 +1,6 @@
+Screencast link:
+https://www.youtube.com/watch?v=G32QMsgr-jM
+
 ### Last Class
 * Measuring wall-time
 * Calculating FLOP/s and MOP/s
